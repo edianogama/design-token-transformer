@@ -3,13 +3,16 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Tue, 08 Jun 2021 16:46:43 GMT
+// Generated on Mon, 21 Jun 2021 14:19:49 GMT
 //
 
 
 import UIKit
 
 public class StyleDictionary {
+    public static let blue1 = rgba(47, 128, 237, 1)
+    public static let blue2 = rgba(45, 156, 219, 1)
+    public static let blue3 = rgba(86, 204, 242, 1)
     public static let bodyExtraBoldCondensedItalicFontFamily = Akzidenz-Grotesk Pro
     public static let bodyExtraBoldCondensedItalicFontSize = 12
     public static let bodyExtraBoldCondensedItalicFontStretch = condensed
@@ -192,6 +195,15 @@ public class StyleDictionary {
     public static let gradientSingleWithMultipleColorStopsStops2Position = 0.65
     public static let gradientSingleWithMultipleColorStopsStops3Color = rgba(255, 0, 0, 1)
     public static let gradientSingleWithMultipleColorStopsStops3Position = 1
+    public static let gray1 = rgba(51, 51, 51, 1)
+    public static let gray2 = rgba(79, 79, 79, 1)
+    public static let gray3 = rgba(130, 130, 130, 1)
+    public static let gray4 = rgba(189, 189, 189, 1)
+    public static let gray5 = rgba(224, 224, 224, 1)
+    public static let gray6 = rgba(242, 242, 242, 1)
+    public static let green1 = rgba(33, 150, 83, 1)
+    public static let green2 = rgba(39, 174, 96, 1)
+    public static let green3 = rgba(111, 207, 151, 1)
     public static let gridMultiple0Alignment = max
     public static let gridMultiple0Count = 7
     public static let gridMultiple0GutterSize = 20
@@ -268,6 +280,9 @@ public class StyleDictionary {
     public static let motionSmartEasingFunctionY1 = 0
     public static let motionSmartEasingFunctionY2 = 1
     public static let motionSmartType = smart_animate
+    public static let orange = rgba(242, 153, 74, 1)
+    public static let purple1 = rgba(155, 81, 224, 1)
+    public static let purple2 = rgba(187, 107, 217, 1)
     public static let radii5RadiiBottomLeft = 5
     public static let radii5RadiiBottomRight = 5
     public static let radii5RadiiTopLeft = 5
@@ -295,6 +310,7 @@ public class StyleDictionary {
     public static let radiiSmoothingRadius = 10
     public static let radiiSmoothingRadiusType = single
     public static let radiiSmoothingSmoothing = 0.75
+    public static let red = rgba(235, 87, 87, 1)
     public static let sizes32 = 32.72
     public static let sizes40 = 40
     public static let sizes60 = 60
@@ -320,4 +336,5 @@ public class StyleDictionary {
     public static let spacingTopLeft = 0
     public static let spacingTopRight = 0
     public static let spacingTopTop = 10
+    public static let yellow = rgba(242, 201, 76, 1)
 }
