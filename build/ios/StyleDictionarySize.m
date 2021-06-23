@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Tue, 22 Jun 2021 13:43:45 GMT
+// Generated on Wed, 23 Jun 2021 13:46:21 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -170,6 +170,12 @@ float const BodySuperFontWeight = 900;
 float const BodySuperLetterSpacing = 0;
 float const BodySuperParagraphIndent = 0;
 float const BodySuperParagraphSpacing = 0;
+float const BodyFontSize = 16;
+float const BodyFontWeight = 400;
+float const BodyLetterSpacing = 0;
+float const BodyLineHeight = 110;
+float const BodyParagraphIndent = 0;
+float const BodyParagraphSpacing = 26;
 float const EffectDropShadowSingleRadius = 4;
 float const EffectDropShadowSingleOffsetX = 0;
 float const EffectDropShadowSingleOffsetY = 4;
@@ -188,3 +194,27 @@ float const EffectInnerShadowMultiple2OffsetY = 2;
 float const EffectInnerShadowMultiple2Spread = 11;
 float const EffectLayerBlurRadius = 4;
 float const EffectBackgroundBlurRadius = 4;
+float const H1BoldFontSize = 28;
+float const H1BoldFontWeight = 700;
+float const H1BoldLetterSpacing = -5;
+float const H1BoldLineHeight = 110;
+float const H1BoldParagraphIndent = 0;
+float const H1BoldParagraphSpacing = 32;
+float const H1RegularFontSize = 28;
+float const H1RegularFontWeight = 400;
+float const H1RegularLetterSpacing = -5;
+float const H1RegularLineHeight = 110;
+float const H1RegularParagraphIndent = 0;
+float const H1RegularParagraphSpacing = 32;
+float const H2BoldFontSize = 24;
+float const H2BoldFontWeight = 700;
+float const H2BoldLetterSpacing = -5;
+float const H2BoldLineHeight = 110;
+float const H2BoldParagraphIndent = 0;
+float const H2BoldParagraphSpacing = 26;
+float const H2RegularFontSize = 24;
+float const H2RegularFontWeight = 400;
+float const H2RegularLetterSpacing = -5;
+float const H2RegularLineHeight = 110;
+float const H2RegularParagraphIndent = 0;
+float const H2RegularParagraphSpacing = 26;

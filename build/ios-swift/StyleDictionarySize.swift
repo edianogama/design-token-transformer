@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Tue, 22 Jun 2021 13:43:45 GMT
+// Generated on Wed, 23 Jun 2021 13:46:21 GMT
 //
 
 import UIKit
@@ -14,6 +14,8 @@ public enum StyleDictionarySize {
     public static let extraBoldCondensedItalicLetterSpacing = 0
     public static let extraBoldCondensedItalicParagraphIndent = 0
     public static let extraBoldCondensedItalicParagraphSpacing = 0
+    public static let fontSize = 16
+    public static let fontWeight = 400
     public static let h3FontSize = 20
     public static let h3FontWeight = 700
     public static let h3LetterSpacing = 2
@@ -30,11 +32,15 @@ public enum StyleDictionarySize {
     public static let italicLetterSpacing = 0
     public static let italicParagraphIndent = 0
     public static let italicParagraphSpacing = 0
+    public static let letterSpacing = 0
+    public static let lineHeight = 110
     public static let mediumExtendedItalicFontSize = 20
     public static let mediumExtendedItalicFontWeight = 500
     public static let mediumExtendedItalicLetterSpacing = 0
     public static let mediumExtendedItalicParagraphIndent = 0
     public static let mediumExtendedItalicParagraphSpacing = 0
+    public static let paragraphIndent = 0
+    public static let paragraphSpacing = 26
     public static let superFontSize = 22
     public static let superFontWeight = 900
     public static let superLetterSpacing = 0
@@ -119,6 +125,30 @@ public enum StyleDictionarySize {
     public static let singleCount = 5
     public static let singleGutterSize = 20
     public static let singleSectionSize = 11
+    public static let boldFontSize = 28
+    public static let boldFontWeight = 700
+    public static let boldLetterSpacing = -5
+    public static let boldLineHeight = 110
+    public static let boldParagraphIndent = 0
+    public static let boldParagraphSpacing = 32
+    public static let regularFontSize = 28
+    public static let regularFontWeight = 400
+    public static let regularLetterSpacing = -5
+    public static let regularLineHeight = 110
+    public static let regularParagraphIndent = 0
+    public static let regularParagraphSpacing = 32
+    public static let boldFontSize = 24
+    public static let boldFontWeight = 700
+    public static let boldLetterSpacing = -5
+    public static let boldLineHeight = 110
+    public static let boldParagraphIndent = 0
+    public static let boldParagraphSpacing = 26
+    public static let regularFontSize = 24
+    public static let regularFontWeight = 400
+    public static let regularLetterSpacing = -5
+    public static let regularLineHeight = 110
+    public static let regularParagraphIndent = 0
+    public static let regularParagraphSpacing = 26
     public static let dissolveDuration = 0.45
     public static let dissolveEasingFunctionX1 = 0.6968395709991455
     public static let dissolveEasingFunctionX2 = 0.06683959811925888

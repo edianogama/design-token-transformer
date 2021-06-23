@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Tue, 22 Jun 2021 13:43:45 GMT
+// Generated on Wed, 23 Jun 2021 13:46:21 GMT
 //
 
 
@@ -25,6 +25,12 @@ public class StyleDictionary {
     public static let bodyExtraBoldCondensedItalicParagraphSpacing = 0
     public static let bodyExtraBoldCondensedItalicTextCase = none
     public static let bodyExtraBoldCondensedItalicTextDecoration = none
+    public static let bodyFontFamily = Lemon
+    public static let bodyFontSize = 16
+    public static let bodyFontStretch = normal
+    public static let bodyFontStyle = normal
+    public static let bodyFontStyleOld = Regular
+    public static let bodyFontWeight = 400
     public static let bodyH3FontFamily = Akzidenz-Grotesk Pro
     public static let bodyH3FontSize = 20
     public static let bodyH3FontStretch = condensed
@@ -61,6 +67,8 @@ public class StyleDictionary {
     public static let bodyItalicParagraphSpacing = 0
     public static let bodyItalicTextCase = none
     public static let bodyItalicTextDecoration = none
+    public static let bodyLetterSpacing = 0
+    public static let bodyLineHeight = 110
     public static let bodyMediumExtendedItalicFontFamily = Akzidenz-Grotesk Pro
     public static let bodyMediumExtendedItalicFontSize = 20
     public static let bodyMediumExtendedItalicFontStretch = expanded
@@ -73,6 +81,8 @@ public class StyleDictionary {
     public static let bodyMediumExtendedItalicParagraphSpacing = 0
     public static let bodyMediumExtendedItalicTextCase = none
     public static let bodyMediumExtendedItalicTextDecoration = none
+    public static let bodyParagraphIndent = 0
+    public static let bodyParagraphSpacing = 26
     public static let bodySuperFontFamily = Akzidenz-Grotesk Pro
     public static let bodySuperFontSize = 22
     public static let bodySuperFontStretch = normal
@@ -85,6 +95,8 @@ public class StyleDictionary {
     public static let bodySuperParagraphSpacing = 0
     public static let bodySuperTextCase = none
     public static let bodySuperTextDecoration = none
+    public static let bodyTextCase = none
+    public static let bodyTextDecoration = none
     public static let bordersDashedOutsideDashPattern = 5,5,3,3
     public static let bordersDashedOutsideStroke = rgba(64, 255, 186, 1)
     public static let bordersDashedOutsideStrokeAlign = outside
@@ -161,6 +173,8 @@ public class StyleDictionary {
     public static let effectInnerShadowMultiple2Type = innerShadow
     public static let effectLayerBlurRadius = 4
     public static let effectLayerBlurType = layerBlur
+    public static let feedback2A9D8F = rgba(42, 157, 143, 1)
+    public static let feedbackInfo = rgba(38, 70, 83, 1)
     public static let gradientMultiple0GradientType = linear
     public static let gradientMultiple0Opacity = 1
     public static let gradientMultiple0Stops0Color = rgba(255, 184, 0, 1)
@@ -250,6 +264,54 @@ public class StyleDictionary {
     public static let gridSingleGutterSize = 20
     public static let gridSinglePattern = columns
     public static let gridSingleSectionSize = 11
+    public static let h1BoldFontFamily = Lato
+    public static let h1BoldFontSize = 28
+    public static let h1BoldFontStretch = normal
+    public static let h1BoldFontStyle = normal
+    public static let h1BoldFontStyleOld = Bold
+    public static let h1BoldFontWeight = 700
+    public static let h1BoldLetterSpacing = -5
+    public static let h1BoldLineHeight = 110
+    public static let h1BoldParagraphIndent = 0
+    public static let h1BoldParagraphSpacing = 32
+    public static let h1BoldTextCase = none
+    public static let h1BoldTextDecoration = none
+    public static let h1RegularFontFamily = Lato
+    public static let h1RegularFontSize = 28
+    public static let h1RegularFontStretch = normal
+    public static let h1RegularFontStyle = normal
+    public static let h1RegularFontStyleOld = Regular
+    public static let h1RegularFontWeight = 400
+    public static let h1RegularLetterSpacing = -5
+    public static let h1RegularLineHeight = 110
+    public static let h1RegularParagraphIndent = 0
+    public static let h1RegularParagraphSpacing = 32
+    public static let h1RegularTextCase = none
+    public static let h1RegularTextDecoration = none
+    public static let h2BoldFontFamily = Lato
+    public static let h2BoldFontSize = 24
+    public static let h2BoldFontStretch = normal
+    public static let h2BoldFontStyle = normal
+    public static let h2BoldFontStyleOld = Bold
+    public static let h2BoldFontWeight = 700
+    public static let h2BoldLetterSpacing = -5
+    public static let h2BoldLineHeight = 110
+    public static let h2BoldParagraphIndent = 0
+    public static let h2BoldParagraphSpacing = 26
+    public static let h2BoldTextCase = none
+    public static let h2BoldTextDecoration = none
+    public static let h2RegularFontFamily = Lato
+    public static let h2RegularFontSize = 24
+    public static let h2RegularFontStretch = normal
+    public static let h2RegularFontStyle = normal
+    public static let h2RegularFontStyleOld = Regular
+    public static let h2RegularFontWeight = 400
+    public static let h2RegularLetterSpacing = -5
+    public static let h2RegularLineHeight = 110
+    public static let h2RegularParagraphIndent = 0
+    public static let h2RegularParagraphSpacing = 26
+    public static let h2RegularTextCase = none
+    public static let h2RegularTextDecoration = none
     public static let motionDissolveDuration = 0.45
     public static let motionDissolveEasing = cubic-bezier
     public static let motionDissolveEasingFunctionX1 = 0.6968395709991455
@@ -281,6 +343,9 @@ public class StyleDictionary {
     public static let motionSmartEasingFunctionY2 = 1
     public static let motionSmartType = smart_animate
     public static let orange = rgba(242, 153, 74, 1)
+    public static let primary700 = rgba(231, 111, 81, 1)
+    public static let primary800 = rgba(45, 55, 72, 1)
+    public static let primary900 = rgba(26, 32, 44, 1)
     public static let purple1 = rgba(155, 81, 224, 1)
     public static let purple2 = rgba(187, 107, 217, 1)
     public static let radii5RadiiBottomLeft = 5
@@ -311,6 +376,9 @@ public class StyleDictionary {
     public static let radiiSmoothingRadiusType = single
     public static let radiiSmoothingSmoothing = 0.75
     public static let red = rgba(235, 87, 87, 1)
+    public static let secondary400 = rgba(252, 129, 129, 1)
+    public static let secondary600 = rgba(229, 62, 62, 1)
+    public static let secondary900 = rgba(116, 42, 42, 1)
     public static let sizes32 = 32.72
     public static let sizes40 = 40
     public static let sizes60 = 60
@@ -336,5 +404,8 @@ public class StyleDictionary {
     public static let spacingTopLeft = 0
     public static let spacingTopRight = 0
     public static let spacingTopTop = 10
+    public static let tertiary300 = rgba(251, 211, 141, 1)
+    public static let tertiary400 = rgba(246, 173, 85, 1)
+    public static let tertiary500 = rgba(237, 137, 54, 1)
     public static let yellow = rgba(242, 201, 76, 1)
 }

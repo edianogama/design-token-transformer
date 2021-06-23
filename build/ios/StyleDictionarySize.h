@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Tue, 22 Jun 2021 13:43:45 GMT
+// Generated on Wed, 23 Jun 2021 13:46:21 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -169,6 +169,12 @@ extern float const BodySuperFontWeight;
 extern float const BodySuperLetterSpacing;
 extern float const BodySuperParagraphIndent;
 extern float const BodySuperParagraphSpacing;
+extern float const BodyFontSize;
+extern float const BodyFontWeight;
+extern float const BodyLetterSpacing;
+extern float const BodyLineHeight;
+extern float const BodyParagraphIndent;
+extern float const BodyParagraphSpacing;
 extern float const EffectDropShadowSingleRadius;
 extern float const EffectDropShadowSingleOffsetX;
 extern float const EffectDropShadowSingleOffsetY;
@@ -187,3 +193,27 @@ extern float const EffectInnerShadowMultiple2OffsetY;
 extern float const EffectInnerShadowMultiple2Spread;
 extern float const EffectLayerBlurRadius;
 extern float const EffectBackgroundBlurRadius;
+extern float const H1BoldFontSize;
+extern float const H1BoldFontWeight;
+extern float const H1BoldLetterSpacing;
+extern float const H1BoldLineHeight;
+extern float const H1BoldParagraphIndent;
+extern float const H1BoldParagraphSpacing;
+extern float const H1RegularFontSize;
+extern float const H1RegularFontWeight;
+extern float const H1RegularLetterSpacing;
+extern float const H1RegularLineHeight;
+extern float const H1RegularParagraphIndent;
+extern float const H1RegularParagraphSpacing;
+extern float const H2BoldFontSize;
+extern float const H2BoldFontWeight;
+extern float const H2BoldLetterSpacing;
+extern float const H2BoldLineHeight;
+extern float const H2BoldParagraphIndent;
+extern float const H2BoldParagraphSpacing;
+extern float const H2RegularFontSize;
+extern float const H2RegularFontWeight;
+extern float const H2RegularLetterSpacing;
+extern float const H2RegularLineHeight;
+extern float const H2RegularParagraphIndent;
+extern float const H2RegularParagraphSpacing;

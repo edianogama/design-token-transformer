@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Tue, 22 Jun 2021 13:43:45 GMT
+// Generated on Wed, 23 Jun 2021 13:46:21 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -51,7 +51,18 @@ Blue1,
 Blue2,
 Blue3,
 Purple1,
-Purple2
+Purple2,
+Primary700,
+Primary800,
+Primary900,
+Secondary400,
+Secondary600,
+Secondary900,
+Tertiary300,
+Tertiary400,
+Tertiary500,
+FeedbackInfo,
+Feedback2A9D8F
 };
 
 @interface StyleDictionaryColor : NSObject

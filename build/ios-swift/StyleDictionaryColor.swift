@@ -3,7 +3,7 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Tue, 22 Jun 2021 13:43:45 GMT
+// Generated on Wed, 23 Jun 2021 13:46:21 GMT
 //
 
 import UIKit
@@ -25,6 +25,8 @@ public enum StyleDictionaryColor {
     public static let innerShadowMultiple0Color = rgba(0, 0, 0, 0.25)
     public static let innerShadowMultiple1Color = rgba(0, 0, 0, 1)
     public static let innerShadowMultiple2Color = rgba(0, 0, 0, 0.25)
+    public static let 2A9D8F = rgba(42, 157, 143, 1)
+    public static let info = rgba(38, 70, 83, 1)
     public static let multiple0Stops0Color = rgba(255, 184, 0, 1)
     public static let multiple0Stops1Color = rgba(255, 184, 0, 1)
     public static let multiple1Stops0Color = rgba(255, 255, 255, 1)
@@ -47,8 +49,17 @@ public enum StyleDictionaryColor {
     public static let  = rgba(39, 174, 96, 1)
     public static let  = rgba(111, 207, 151, 1)
     public static let  = rgba(242, 153, 74, 1)
+    public static let 700 = rgba(231, 111, 81, 1)
+    public static let 800 = rgba(45, 55, 72, 1)
+    public static let 900 = rgba(26, 32, 44, 1)
     public static let  = rgba(155, 81, 224, 1)
     public static let  = rgba(187, 107, 217, 1)
     public static let  = rgba(235, 87, 87, 1)
+    public static let 400 = rgba(252, 129, 129, 1)
+    public static let 600 = rgba(229, 62, 62, 1)
+    public static let 900 = rgba(116, 42, 42, 1)
+    public static let 300 = rgba(251, 211, 141, 1)
+    public static let 400 = rgba(246, 173, 85, 1)
+    public static let 500 = rgba(237, 137, 54, 1)
     public static let  = rgba(242, 201, 76, 1)
 }
